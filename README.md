@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisCueva12
 - 👀 I’m interested in SENATI
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Programación
 - 💞️ I’m looking to collaborate on PROYECTOS DE SOFTWARE
 - 📫 How to reach me cuevasuarezluisyampier@gmail.com
 
